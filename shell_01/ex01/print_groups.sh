@@ -1,0 +1,2 @@
+groups $javmedin | tr ' ' ',' 
+
